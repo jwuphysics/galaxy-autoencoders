@@ -20,3 +20,9 @@ I recommend running this code on [colab.research.google.com/](Google Colab) if p
 
 ## Dependencies
 If you want to run it locally, Pytorch version `>=1.7`, scikit-learn (sklearn), and the SciPy stack (Numpy/SciPy/matplotlib) are currently needed. Make sure that the `device` parameter is set to `cpu` and not `cuda` if you do not have a GPU.
+
+# Results
+
+After training a *variational* autoencoder, we can sample the latent space along different dimensions in order to see what they represent!
+
+![](doc/latent-representations.png)
