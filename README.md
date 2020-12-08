@@ -11,7 +11,7 @@ Learning about galaxy images, and perhaps their latent representations, using au
 
 The images of galaxies come from the [Sloan Digital Sky Survey (SDSS)](www.sdss.org/) and can be retrieved using their JPG cutout service on [SkyServer](skyserver.sdss.org/).
 
-These images, along with some [GalaxyZoo](https://www.galaxyzoo.org) morphological labels, were compiled by Henry Leung and Jo Bovy as part of the [Galaxy10 dataset](https://astronn.readthedocs.io/en/latest/galaxy10.html). Please cite and acknowledge SDSS, [GalaxyZoo](https://ui.adsabs.harvard.edu/abs/2008MNRAS.389.1179L/abstract), and the relevant data releases.
+These images, along with some [GalaxyZoo](https://www.galaxyzoo.org) morphological labels, were compiled by [Henry Leung](https://github.com/henrysky) and [Jo Bovy](https://github.com/jobovy) as part of the [Galaxy10 dataset](https://astronn.readthedocs.io/en/latest/galaxy10.html). Please cite and acknowledge SDSS, [GalaxyZoo](https://ui.adsabs.harvard.edu/abs/2008MNRAS.389.1179L/abstract), and the relevant data releases.
 
 # Code
 
