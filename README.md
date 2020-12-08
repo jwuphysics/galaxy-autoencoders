@@ -10,6 +10,13 @@ The images of galaxies come from the [Sloan Digital Sky Survey (SDSS)](www.sdss.
 
 These images, along with some [GalaxyZoo](https://www.galaxyzoo.org) morphological labels, were compiled by Henry Leung and Jo Bovy as part of the [Galaxy10 dataset](https://astronn.readthedocs.io/en/latest/galaxy10.html). Please cite and acknowledge SDSS, [GalaxyZoo](https://ui.adsabs.harvard.edu/abs/2008MNRAS.389.1179L/abstract), and the relevant data releases.
 
-# Software
+# Code
 
-Pytorch version `>=1.7`, scikit-learn (sklearn), and the SciPy stack (Numpy/SciPy/matplotlib) are currently needed to run the code.
+## Viewing the notebook
+If you just want to take a look, it's probably best to use [Jupyter nbviewer](https://nbviewer.jupyter.org/) since there are some large images that Github often fails to load. For example, the first notebook can be viewed [here](https://nbviewer.jupyter.org/github/jwuphysics/galaxy-autoencoders/blob/main/VAEs%20for%20galaxy%20images.ipynb).
+
+## Google Colab
+I recommend running this code on [colab.research.google.com/](Google Colab) if possible, since it offers a free GPU and already satisfies all the dependencies.
+
+## Dependencies
+If you want to run it locally, Pytorch version `>=1.7`, scikit-learn (sklearn), and the SciPy stack (Numpy/SciPy/matplotlib) are currently needed. Make sure that the `device` parameter is set to `cpu` and not `cuda` if you do not have a GPU.
