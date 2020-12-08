@@ -18,7 +18,7 @@ These images, along with some [GalaxyZoo](https://www.galaxyzoo.org) morphologic
 If you just want to take a look, it's probably best to use [Jupyter nbviewer](https://nbviewer.jupyter.org/) since there are some large images that Github often fails to load. For example, the first notebook can be viewed [here](https://nbviewer.jupyter.org/github/jwuphysics/galaxy-autoencoders/blob/main/VAEs%20for%20galaxy%20images.ipynb).
 
 ## Google Colab
-I recommend running this code on [colab.research.google.com/](Google Colab) if possible, since it offers a free GPU and already satisfies all the dependencies.
+I recommend running this code on [Google Colab](colab.research.google.com/github/jwuphysics/galaxy-autoencoders) if possible, since it offers a free GPU and already satisfies all the dependencies.
 
 ## Dependencies
 If you want to run it locally, Pytorch version `>=1.7`, scikit-learn (sklearn), and the SciPy stack (Numpy/SciPy/matplotlib) are currently needed. Make sure that the `device` parameter is set to `cpu` and not `cuda` if you do not have a GPU.
