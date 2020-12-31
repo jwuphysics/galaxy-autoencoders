@@ -1,6 +1,6 @@
 # Autoencoders for galaxy observations
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab.research.google.com/github/jwuphysics/galaxy-autoencoders)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jwuphysics/galaxy-autoencoders)
 [![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jwuphysics/galaxy-autoencoders/tree/main/)
 
 <img src="doc/VAE-animation.gif" width="300" height="300"/>
