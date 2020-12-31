@@ -4,6 +4,7 @@
 [![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jwuphysics/galaxy-autoencoders/tree/main/)
 
 <img src="doc/VAE-animation.gif" width="300" height="300"/> <img src="doc/VAE-animation-MMD.gif" width="300" height="300"/>
+
 (*left*) Animation of decoded galaxy images from ELBO-VAE latent space. (*right*) Decoded galaxy images from MMD-VAE latent space.
 
 
