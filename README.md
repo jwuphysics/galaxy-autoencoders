@@ -3,7 +3,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jwuphysics/galaxy-autoencoders)
 [![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jwuphysics/galaxy-autoencoders/tree/main/)
 
-Learning about galaxy images, and perhaps their latent representations, using autoencoders. Inspired by a [notebook](https://colab.research.google.com/drive/149Z8pDLj8w5GlLxqTtamcYfPLEaNHuAo?usp=sharing) during the *Machine Learning for Astrophysics and Astrophysics Problems for Machine Learning* NeurIPS 2020 tutorial led by [David W. Hogg](https://github.com/davidwhogg) and [Kate Storey-Fisher](https://github.com/kstoreyf). Interested in reading more? Check out the [blog post](https://jwuphysics.substack.com/p/galaxy-autoencoders)!
+Learning about galaxy images, and perhaps their latent representations, using autoencoders. Interested in reading more? Check out the [blog post](https://jwuphysics.substack.com/p/galaxy-autoencoders)!
 
 <img src="doc/VAE-animation.gif" width="300" height="300"/> <img src="doc/VAE-animation-MMD.gif" width="300" height="300"/>
 
@@ -31,3 +31,6 @@ If you want to run it locally, Pytorch version `>=1.7`, scikit-learn (sklearn), 
 After training a *variational* autoencoder, we can sample the latent space along different dimensions in order to see what they represent!
 
 ![](doc/latent-representations.png)
+
+# Acknowledgments
+This repo was inspired by a [notebook](https://colab.research.google.com/drive/149Z8pDLj8w5GlLxqTtamcYfPLEaNHuAo?usp=sharing) during the *Machine Learning for Astrophysics and Astrophysics Problems for Machine Learning* NeurIPS 2020 tutorial led by [David W. Hogg](https://github.com/davidwhogg) and [Kate Storey-Fisher](https://github.com/kstoreyf).
