@@ -3,7 +3,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jwuphysics/galaxy-autoencoders)
 [![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jwuphysics/galaxy-autoencoders/tree/main/)
 
-Learning about galaxy images, and perhaps their latent representations, using autoencoders. Interested in reading more? Check out the [blog post](https://jwuphysics.substack.com/p/galaxy-autoencoders)!
+Learning about galaxy images, and perhaps their latent representations, using autoencoders. Check out the [blog post](https://jwuphysics.substack.com/p/galaxy-autoencoders)!
 
 <img src="doc/VAE-animation.gif" width="300" height="300"/> <img src="doc/VAE-animation-MMD.gif" width="300" height="300"/>
 
